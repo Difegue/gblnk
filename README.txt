@@ -16,5 +16,10 @@ I hope this program will help all the poor lads who can't afford cartridge dumpe
 
 (sugoi@cock.li)
 
+Usage:
+From a Terminal:
+./gblnk filename1 filename2 filename3 ...
+For every filename specified, gblnk will wait for you to initiate printing from your gameboy camera.
+
 protip: bmptoppm < file.bmp | cjpeg -q 90 > file.jpg to convert the bmps into a more web-friendly format. 
 If I feel courageous enough, I'll add in native jpeg/png export. (bmp isn't really convenient in 2014.)
