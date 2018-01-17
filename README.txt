@@ -2,6 +2,8 @@
 
 Consider using uCON64 (http://ucon64.sourceforge.net/) instead of this to transfer GameBoy Camera images using the MadCatz Camera Cable. It fixes a number of bugs in the transfer code and outputs smaller .bmps.
 
+https://sourceforge.net/p/ucon64/svn/2656/ -- Link to the latest uCON64 commit concerning the Camera Link Cable.
+
 -- 2018 EDIT --
 
 gblnk difeguemod - for transferring images between your gameboy camera and your PC
