@@ -7,7 +7,7 @@ https://sourceforge.net/p/ucon64/svn/2656/ -- Link to the latest uCON64 commit c
 -- 2018 EDIT --
 
 gblnk difeguemod - for transferring images between your gameboy camera and your PC
-Original software (c) Chris McCormick (http://freecode.com/projects/gblnk)
+Original software (c) Chris McCormick ( https://github.com/chr15m/gblnk )
 
 Rewritten to allow batch processing and not depend on the allegro library.
 More convenient, runs on any GNU/Linux variant, and a good 70KBs lighter. Now the .bmps obtained weigh more than the actual program!
